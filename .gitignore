@@ -1,0 +1,48 @@
+# Dependencias
+node_modules/
+.pnp/
+.pnp.js
+
+# Expo
+.expo/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Sistema operativo
+.DS_Store
+*.pem
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Env
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# Build nativo
+android/
+ios/
+
+# Logs
+*.log

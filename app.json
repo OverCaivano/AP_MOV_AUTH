@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "AP_MOV_AUTH",
+    "slug": "ap_mov_auth",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.anonymous.ap_mov_auth"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
